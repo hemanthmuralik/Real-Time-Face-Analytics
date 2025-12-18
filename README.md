@@ -10,6 +10,10 @@ A real-time computer vision system that detects faces and estimates **Age**, **G
 * **Multi-Task Learning:** Simultaneously predicts 3 distinct attributes.
 * **Real-Time Performance:** Optimized for CPU inference.
 * **Privacy-First:** All processing happens locally.
+* ### 📊 Sample Output
+Here is an example of the real-time emotion probability analysis:
+
+![Emotion Analysis Chart](Figure_1.png)
 
 ## 🛠️ Tech Stack
 * **Deep Learning:** TensorFlow/Keras (CNN)
