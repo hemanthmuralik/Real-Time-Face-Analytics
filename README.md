@@ -1,4 +1,4 @@
-# Gender-and-age-detection-
+
 # 🎭 Real-Time Face Analytics
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
