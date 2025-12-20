@@ -64,6 +64,7 @@ The chart visualizes confidence scores for different emotional states detected f
 ### 1️⃣ Clone the repository
 git clone https://github.com/hemanthmuralik/Real-Time-Face-Analytics.git
 cd Real-Time-Face-Analytics
+
 2️⃣ Install dependencies
 pip install -r requirements.txt
 
@@ -72,3 +73,39 @@ python age_emotion_RT.py
 
 
 Ensure your webcam is connected and accessible before running the script.
+
+Results & Performance
+
+Real-time face detection and analytics on CPU
+
+Emotion prediction displayed with probability distribution
+
+Approximate age estimation
+
+Gender classification with confidence score
+
+Performance may vary depending on hardware and lighting conditions.
+
+⚠️ Limitations
+
+Age prediction is an estimation, not exact
+
+Emotion recognition may be affected by lighting and occlusion
+
+Haar Cascade face detection may struggle with extreme angles
+
+🔮 Future Improvements
+
+Replace Haar Cascade with MTCNN or YOLO
+
+Deploy on edge devices (Raspberry Pi, Jetson Nano)
+
+Improve robustness in low-light conditions
+
+Add face recognition and tracking
+
+Convert models to TensorFlow Lite for optimization
+
+📄 License
+
+This project is licensed under the MIT License.
